@@ -1,4 +1,4 @@
-import './messagesList.css'
+import './MessagesList.css'
 
 
 export default function MessagesList({ messages = [] }){

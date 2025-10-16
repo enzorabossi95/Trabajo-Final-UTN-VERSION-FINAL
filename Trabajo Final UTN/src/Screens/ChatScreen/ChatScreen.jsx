@@ -1,4 +1,4 @@
-import './chatScreen.css'
+import './ChatScreen.css'
 import { useEffect, useMemo, useState } from 'react'
 import { useNavigate, useSearchParams } from 'react-router-dom'
 import Navbar from '../../Components/Navbar/Navbar'
