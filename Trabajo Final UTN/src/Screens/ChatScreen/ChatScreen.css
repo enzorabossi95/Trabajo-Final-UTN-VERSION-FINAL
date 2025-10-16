@@ -1,0 +1,13 @@
+.chat{ 
+    display:grid; 
+    grid-template-rows:auto 1fr auto; 
+    min-height:300px; 
+}
+
+.chat-body{ 
+    padding:0; 
+}
+
+.chat-footer{ 
+    border-top:1px solid #223038; 
+}

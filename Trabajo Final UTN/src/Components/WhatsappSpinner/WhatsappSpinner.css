@@ -1,0 +1,9 @@
+.wa-spinner{ 
+    width:20px; 
+    height:20px; 
+    border-radius:50%; 
+    background:conic-gradient(var(--accent), transparent); 
+    mask:radial-gradient(circle 7px, transparent 8px, #000 9px); 
+    animation:spin 1s linear infinite; 
+}
+@keyframes spin{ to{ transform:rotate(360deg) } }

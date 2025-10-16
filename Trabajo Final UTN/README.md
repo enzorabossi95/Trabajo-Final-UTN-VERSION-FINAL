@@ -1,16 +1,6 @@
-# React + Vite
+Trabajo Final Integrador Front End UTN
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+App web tipo WhatsApp hecha con React + React Router + Context + estados + formulario. Estilos simples, accesibles y responsive (320px–2000px). Cumple con las consignas de la cursada.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+A la hora de resolverse tuve algunas dificultades con Vercel pero principalmente me llevo mucho tiempo ante lo que yo creo que es falta de practica, principalmente de sintaxis al ser mi primera vez trabajando con React. No tuve problemas para entender lo que estaba haciendo pero muchas veces tuve que repasar algunas cosas a medida que lo iba haciendo.
+Entregue directamente en la etapa de recuperatorio porque vivo en el exterior y no puedo asistir a las clases en horario porque trabajo a esa hora, algo que me atraso un poco y no me dejo aprovechar la posibilidad de hacer los ejercicios con la correccion del profesor en tiempo real.
